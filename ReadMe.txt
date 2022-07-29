@@ -1,1 +1,6 @@
-This is A ReadMe file Which I'm Gonna Edit letter.
+Hello Everyone, This is Aditya Singh.
+
+I have created this basic project by using, 
+  - React-Routers
+  - React-Redux &
+  - useContaxt API.
